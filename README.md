@@ -1,0 +1,1 @@
+# SAMP-a_mysql.inc
